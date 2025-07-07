@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.parent{
+    height: 8%;
+    width: 100%;
+    background-color: #2C3E50;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 150px;
+    align-items: center;
+    position: fixed;
+}
+.child1{
+    color: #ffff;
+    font-size: x-large;
+    font-weight: 100px;
+}
+.child2{
+    color: #ffff;
+}   
+.hero{
+    height: 550px;
+    width: auto;
+    background-color: #18BC9c;
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    padding: 50px;
+    color: #ffff;
+    font-size: 50px;
+}
+p{
+    color: #999999;
+    text-align: center;
+    padding: 25px;
+}
+div{
+    text-align: center;
+    
+}
+.button{
+    background-color: #18BC9c;
+    height: 30px;
+    padding: 0px 10px;
+    border-radius: 8px
+
+
+}
+input{
+    height: 30px;
+    width: 230px;
+    padding: 0 25px;
+}
+h2{
+    text-align: center;
+   background-color: white;
+    padding: 50px 0;
+    font-size: 35px;
+    color: #999999;
+    
+}
+.boss{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 0 200px;
+}
+img{
+    border-radius: 75px;
+    margin: 10px;
+}
+bold{
+    font-size: 25px;
+}
+.act{
+    height: 300px;
+    width: 230px;
+    border-radius: 7px;
+    background-color: antiquewhite;
+}
+.boss1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 0 200px;
+    
+
+}
+.act1{
+    height: 300px;
+    width: 230px;
+    border-radius: 7px;
+    background-color: antiquewhite;
+}
+.boss2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 0 200px;
+    
+
+}
+.act2{
+    height: 300px;
+    width: 230px;
+    border-radius: 7px;
+    background-color: antiquewhite;
+}
+.king{
+  height: 50px;
+ background-color: #2C3E50;
+    height: 200px;
+    margin-top: 150px;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 225px;
+     
+}
+.king a{
+    text-decoration: none;
+    color:  #428bca;
+}
+.j1{
+    color: #ffff;
+}
+
+.j2{
+    color: #ffff;
+}
+
+.j3{
+    color: #ffff;
+}
